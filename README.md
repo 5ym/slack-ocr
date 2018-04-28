@@ -1,1 +1,3 @@
 # slack-ocr
+slackのbotでocr可能にするやつ
+slackのbot関連でphpを使ったものがなかったので一からcurlで実装しました
